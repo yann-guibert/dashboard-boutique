@@ -2,6 +2,7 @@
 
 ![Dashboard Boutique](screenshot.png)
 
+
 Application Streamlit de suivi des ventes pour petits commerces.  
 Connexion base de données SQLite, graphiques interactifs et export PDF.
 ---
